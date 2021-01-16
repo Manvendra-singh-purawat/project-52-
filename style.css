@@ -1,0 +1,111 @@
+.head{
+      
+  background-color:white;
+  border:solid;
+  justify-content: space-between;
+   }
+
+   
+.grid {
+  background: darkred;
+  background-color: #F0F8FF;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  text-align: left;
+  flex-wrap: wrap;
+}
+
+
+
+.camel {
+  border-radius: 20px ;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+  border: solid;
+}
+
+.camel:hover{
+  transform: scale(1.2);
+}
+
+.chameleon {
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+  border: solid;
+}
+
+.chameleon:hover{
+  transform: scale(1.2);
+}
+
+.cicada {
+  border-radius: 20px ;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color:#E8E5E4;
+  border: solid;
+}
+
+.cicada:hover{
+  transform: scale(1.2);
+}
+
+.panda {
+  border-radius: 20px ;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color:#E8E5E4;
+  border: solid;
+}
+
+.panda:hover{
+  transform: scale(1.2);
+}
+
+.pigeon {
+  border-radius: 20px ;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+  border: solid;
+}
+
+.pigeon:hover{
+  transform: scale(1.2);
+}
+
+.teddy {
+  border-radius: 20px ;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+  border: solid;
+}
+
+.teddy:hover{
+  transform: scale(1.2);
+}
+
+
